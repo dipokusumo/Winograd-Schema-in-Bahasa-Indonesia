@@ -1,10 +1,4 @@
 # Winograd-Schema-in-Bahasa-Indonesia
-Diharapkan jika ingin menggunakan data berikut agar menghubungi penulis paper
-"REKAYASA PROMPT (PROMPT ENGINEERING) UNTUK PENGUJIAN NALAR WAJAR (COMMON SENSE) PADA LARGE LANGUAGE MODELS (LLMs)"
-untuk menjadikan paper tersebut sebagai side paper nya
-Terima kasih
+Dataset Tantangan Skema Winograd (Winograd Schema Challenge) dalam bahasa Indonesia. Jumlah baris data sebanyak 285 (WSC 285). Silahkan digunakan untuk keperluan penelitian anda. Mohon lakukan sitasi pada artikel ... jika anda menggunakannya. Terima kasih.
 
-If you wish to use the following data, please contact the author of the paper
-"REKAYASA PROMPT (PROMPT ENGINEERING) UNTUK PENGUJIAN NALAR WAJAR (COMMON SENSE) PADA LARGE LANGUAGE MODELS (LLMs)"
-to make the paper as a side paper
-Thankyou
+Winograd Schema Challenge Dataset in Indonesian. The number of data rows is 285 (WSC 285). Please use it for your research needs. Please cite the article... if you use it. Thank You.
